@@ -1,0 +1,283 @@
+[0]: #################################################################
+[0]: ## System information
+[0]: Operating system:
+[0]:    Ubuntu 20.04.5 LTS
+[1]: HostName:
+[1]:    393be0413d46
+[1]: IP-address:
+[1]:    172.17.0.2 (used when locking to IP-address
+[1]: Hardware locking codes:
+[1]:    IP Address:                 *1T5YXMASPR3LNDV
+[1]:    Disk ID:                    *1ZSZF382B6R3WL3
+[1]:    MAC Address:                *1AUZQE35KVGJBRH
+[1]:    Host Name:                  *1T24F68QAXFQ7ME
+[1]:    UUID:                       Failed to get the machine ID for locking criteria 0x2000.
+[1]:   No available machine id for specified lock selector. Status code 0x97.
+[1]:    CPU string:                 *1Y4762FP4A2YZGS
+[2]:    Dongle:                     <none>
+[2]:    Host Name and Disk ID:      *1Z4B6GZPZJEL5NQ
+[2]:    Host Name and UUID:         *1XJUEJ9YAXN39HG
+[3]:    UUID and MAC address:       *176LKRVWC7483QW
+[3]:    CPU String and MAC address: *1DQDXTQ86B499R7
+[3]:    CPU String and Host Name:   *1ZP3QNMTXS33HJP
+[3]: Connected dongles: <none>
+[4]: RMS version: 9.7.0.0036
+[4]: IAR License Manager version: 2.18.3.J62
+[4]: Environment variables: <none>
+[4]: Current time: 2023-01-24 4:58
+[4]: #################################################################
+[4]: ## Installed products
+[4]: Install directory:
+[4]:   /opt/iarsystems/license_server_tools
+[4]: #################################################################
+[4]: ## License request tests
+[4]: Finished the license request tests.
+[4]: #################################################################
+[4]: ### Commuter licenses
+[6]: No checked out licenses.
+[393]: --- VLSdiscoverExt returned No servers responded to client broadcast. Status code 0x11.
+[398]: #################################################################
+[398]: ### Server: PDP-LIC-01
+[398]: ### Version: 9.4.0.23 Old version, might be incompatible
+[399]: ### IP/Host name: 172.16.92.72/PDP-LIC-01.corp.itsroot.biz
+[400]: --------------------
+[400]: Feature:                    ARMBX.EW.COMPILER_STD
+[400]: Version:                    1.18
+[400]: Number of licenses :        10
+[400]: Number taken:               2
+[400]: Is commuter:                yes
+[400]: Max commuter checkout days: 15
+[400]: Licenses in queue         : 0
+[400]: Reserved                  : 0
+[400]: Available licenses        : 8
+[400]: License number            : 8006-840-858-6402
+[401]: --------------------         
+[401]: Feature:                    ARMBX.EW.DEBUGGER_STD
+[401]: Version:                    1.18             
+[401]: Number of licenses :        10               
+[401]: Number taken:               0
+[401]: Is commuter:                yes              
+[401]: Max commuter checkout days: 15               
+[401]: Licenses in queue         : 0
+[401]: Reserved                  : 0
+[401]: Available licenses        : 10               
+[401]: License number            : 8006-840-858-6402
+[402]: --------------------         
+[402]: Feature:                    ARMBX.EW.GEN18_STD   
+[402]: Version:                    1.00             
+[402]: Number of licenses :        50               
+[402]: Number taken:               2
+[402]: Is commuter:                yes              
+[402]: Max commuter checkout days: 15               
+[402]: Licenses in queue         : 0
+[402]: Reserved                  : 0
+[402]: Available licenses        : 48               
+[402]: License number            : 8006-840-858-6402
+[403]: --------------------         
+[403]: Feature:                    ARMBX.EW.LINKER_STD  
+[403]: Version:                    1.18             
+[403]: Number of licenses :        10               
+[403]: Number taken:               2
+[403]: Is commuter:                yes              
+[403]: Max commuter checkout days: 15               
+[403]: Licenses in queue         : 0
+[403]: Reserved                  : 0
+[403]: Available licenses        : 8
+[403]: License number            : 8006-840-858-6402
+[404]: --------------------         
+[404]: Feature:                    ARMBX.EW.MISRAC_STD  
+[404]: Version:                    1.18             
+[404]: Number of licenses :        10               
+[404]: Number taken:               0
+[404]: Is commuter:                yes              
+[404]: Max commuter checkout days: 15               
+[404]: Licenses in queue         : 0
+[404]: Reserved                  : 0
+[404]: Available licenses        : 10               
+[404]: License number            : 8006-840-858-6402
+[404]: #################################################################                                                                                               [404]: ### Server: PDP-LIC-02       
+[404]: ### Version: 9.7.0.36        
+[405]: ### IP/Host name: 172.16.92.79/PDP-LIC-02.corp.itsroot.biz
+[406]: --------------------         
+[406]: Feature:                    ARMF85BX.EW.COMPILER_STD      
+[406]: Version:                    1.00             
+[406]: Number of licenses :        2
+[406]: Number taken:               2
+[406]: Is commuter:                yes              
+[406]: Max commuter checkout days: 15               
+[406]: Licenses in queue         : 0
+[406]: Reserved                  : 0
+[406]: Available licenses        : 0
+[406]: License number            : 8007-525-657-9354
+[406]: --------------------         
+[406]: Feature:                    ARMF85BX.EW.DEBUGGER_STD      
+[406]: Version:                    1.00             
+[406]: Number of licenses :        2
+[406]: Number taken:               0
+[406]: Is commuter:                yes              
+[406]: Max commuter checkout days: 15               
+[407]: Licenses in queue         : 0
+[407]: Reserved                  : 0
+[407]: Available licenses        : 2
+[407]: License number            : 8007-525-657-9354
+[408]: --------------------         
+[408]: Feature:                    ARMF85BX.EW.GEN18_STD
+[408]: Version:                    1.00             
+[408]: Number of licenses :        10               
+[408]: Number taken:               2
+[408]: Is commuter:                yes              
+[408]: Max commuter checkout days: 15               
+[408]: Licenses in queue         : 0
+[408]: Reserved                  : 0
+[408]: Available licenses        : 8
+[408]: License number            : 8007-525-657-9354
+[409]: --------------------         
+[409]: Feature:                    ARMF85BX.EW.LINKER_STD        
+[409]: Version:                    1.00             
+[409]: Number of licenses :        2
+[409]: Number taken:               2
+[409]: Is commuter:                yes              
+[409]: Max commuter checkout days: 15               
+[409]: Licenses in queue         : 0
+[409]: Reserved                  : 0
+[409]: Available licenses        : 0
+[409]: License number            : 8007-525-657-9354
+[410]: --------------------         
+[410]: Feature:                    ARMF85BX.EW.MISRAC_STD        
+[410]: Version:                    1.00             
+[410]: Number of licenses :        2
+[410]: Number taken:               0
+[410]: Is commuter:                yes              
+[410]: Max commuter checkout days: 15               
+[410]: Licenses in queue         : 0
+[410]: Reserved                  : 0
+[410]: Available licenses        : 2
+[410]: License number            : 8007-525-657-9354
+[410]: #################################################################                                                                                                                      [410]: ### Server: PDPT-LIC-01      
+[410]: ### Version: 9.4.0.23 Old version, might be incompatible  
+[410]: ### IP/Host name: 172.16.92.92/PDPT-LIC-01.corp.itsroot.biz
+[411]: --------------------         
+[411]: Feature:                    ARMBX.EW.COMPILER_STD
+[411]: Version:                    1.21             
+[411]: Number of licenses :        1
+[411]: Number taken:               1
+[411]: Is commuter:                yes              
+[411]: Max commuter checkout days: 15               
+[411]: Licenses in queue         : 0
+[411]: Reserved                  : 0
+[411]: Available licenses        : 0
+[411]: License number            : 8006-747-166-0062
+[412]: --------------------         
+[412]: Feature:                    ARMBX.EW.CSTAT_STD   
+[412]: Version:                    1.21             
+[412]: Number of licenses :        1
+[412]: Number taken:               0
+[412]: Is commuter:                yes              
+[412]: Max commuter checkout days: 15               
+[412]: Licenses in queue         : 0
+[412]: Reserved                  : 0
+[412]: Available licenses        : 1
+[412]: License number            : 8006-747-166-0062
+[412]: --------------------         
+[412]: Feature:                    ARMBX.EW.DEBUGGER_STD
+[412]: Version:                    1.21             
+[412]: Number of licenses :        1
+[413]: Number taken:               0
+[413]: Is commuter:                yes              
+[413]: Max commuter checkout days: 15               
+[413]: Licenses in queue         : 0
+[413]: Reserved                  : 0
+[413]: Available licenses        : 1
+[413]: License number            : 8006-747-166-0062
+[413]: --------------------         
+[413]: Feature:                    ARMBX.EW.GEN18_STD   
+[413]: Version:                    1.00             
+[413]: Number of licenses :        6
+[413]: Number taken:               1
+[413]: Is commuter:                yes              
+[413]: Max commuter checkout days: 15               
+[414]: Licenses in queue         : 0
+[414]: Reserved                  : 0
+[414]: Available licenses        : 5
+[414]: License number            : 8006-747-166-0062
+[414]: --------------------         
+[414]: Feature:                    ARMBX.EW.LINKER_STD  
+[414]: Version:                    1.21             
+[414]: Number of licenses :        1
+[414]: Number taken:               1
+[414]: Is commuter:                yes              
+[414]: Max commuter checkout days: 15               
+[414]: Licenses in queue         : 0
+[414]: Reserved                  : 0
+[415]: Available licenses        : 0
+[415]: License number            : 8006-747-166-0062
+[415]: --------------------         
+[415]: Feature:                    ARMBX.EW.MISRAC_STD  
+[415]: Version:                    1.21             
+[415]: Number of licenses :        1
+[415]: Number taken:               0
+[415]: Is commuter:                yes              
+[415]: Max commuter checkout days: 15               
+[415]: Licenses in queue         : 0
+[415]: Reserved                  : 0
+[415]: Available licenses        : 1
+[415]: License number            : 8006-747-166-0062
+[415]: #################################################################                                                                                               [416]: ### Server: PDPT-LIC-02      
+[416]: ### Version: 9.7.0.36        
+[416]: ### IP/Host name: 172.16.92.95/PDPT-LIC-02.corp.itsroot.biz
+[416]: --------------------         
+[417]: Feature:                    ARMF85BX.EW.COMPILER_STD      
+[417]: Version:                    1.00             
+[417]: Number of licenses :        1
+[417]: Number taken:               1
+[417]: Is commuter:                yes              
+[417]: Max commuter checkout days: 15               
+[417]: Licenses in queue         : 0
+[417]: Reserved                  : 0
+[417]: Available licenses        : 0
+[417]: License number            : 8007-525-788-1047
+[417]: --------------------         
+[417]: Feature:                    ARMF85BX.EW.DEBUGGER_STD      
+[417]: Version:                    1.00             
+[417]: Number of licenses :        1
+[417]: Number taken:               0
+[417]: Is commuter:                yes              
+[417]: Max commuter checkout days: 15               
+[417]: Licenses in queue         : 0
+[417]: Reserved                  : 0
+[417]: Available licenses        : 1
+[417]: License number            : 8007-525-788-1047
+[418]: --------------------         
+[418]: Feature:                    ARMF85BX.EW.GEN18_STD
+[418]: Version:                    1.00             
+[418]: Number of licenses :        5
+[418]: Number taken:               1
+[418]: Is commuter:                yes              
+[418]: Max commuter checkout days: 15               
+[418]: Licenses in queue         : 0
+[418]: Reserved                  : 0
+[418]: Available licenses        : 4
+[418]: License number            : 8007-525-788-1047
+[419]: --------------------         
+[419]: Feature:                    ARMF85BX.EW.LINKER_STD        
+[419]: Version:                    1.00             
+[419]: Number of licenses :        1
+[419]: Number taken:               1
+[419]: Is commuter:                yes              
+[419]: Max commuter checkout days: 15               
+[419]: Licenses in queue         : 0
+[419]: Reserved                  : 0
+[419]: Available licenses        : 0
+[419]: License number            : 8007-525-788-1047
+[420]: --------------------         
+[420]: Feature:                    ARMF85BX.EW.MISRAC_STD        
+[420]: Version:                    1.00             
+[420]: Number of licenses :        1
+[420]: Number taken:               0
+[420]: Is commuter:                yes              
+[420]: Max commuter checkout days: 15               
+[420]: Licenses in queue         : 0
+[420]: Reserved                  : 0
+[420]: Available licenses        : 1
+[420]: License number            : 8007-525-788-1047
+[420]: #################################################################
